@@ -55,14 +55,13 @@ body {
 }
 
 .plan-details p {
-  margin: -5px 18px;
+  margin: -6px 18px;
   font-weight: 700;
   font-size: 0.9rem;
 }
 
 .plan-duration {
   font-weight: normal;
-  margin-right: 4px;
   color: hsl(224, 23%, 55%);
 }
 
