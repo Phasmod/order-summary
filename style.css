@@ -79,6 +79,7 @@ body {
 .order {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .payment-btn {
@@ -88,7 +89,7 @@ body {
   color: hsl(225, 100%, 94%);
   height: 40px;
   padding: 5px;
-  margin: 0 28px 10px 28px;
+  width: 80%;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
@@ -108,4 +109,5 @@ body {
 .order a:hover {
   color: hsl(223, 47%, 23%);
 }
+
 
